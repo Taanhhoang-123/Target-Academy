@@ -1,0 +1,34 @@
+BO ANH MINH HOA MAC DINH (.svg): da co san 31 anh rieng cho tung vi tri, gom 4 chan dung thay co khac nhau (t1-t4).
+Muon doi sang anh that: Giao dien > Anh giao dien (hoac chep .jpg/.webp cung ten) - anh that luon duoc uu tien hon .svg.
+
+HUONG DAN NHANH: vao WordPress > Giao dien > "Anh giao dien" de chon anh tung vi tri tu Thu vien Media (khong can FTP).
+Cach cu (chep file vao thu muc nay dung ten) van dung duoc. Thu tu uu tien: Thu vien Media > file trong thu muc nay > nen thiet ke mac dinh.
+
+HUONG DAN ANH - MOI VI TRI 1 ANH RIENG (khong bi lap)
+Bo anh vao thu muc nay, dung dung ten (.jpg / .webp / .png deu duoc). Thieu anh nao thi trang tu dung nen nghe thuat rieng cho vi tri do.
+Nen nen anh < 300KB/anh (squoosh.app). Nguon anh dep, mien phi: unsplash.com, pexels.com, pixabay.com
+
+TRANG CHU
+hero.jpg          1920x1080  hoc sinh/phong hoc sang, anh rong, vung ben trai toi de de chu
+home-about.jpg    1000x1100  giao vien dang giang bai, hoac nhom hoc sinh
+results.jpg       1920x900   le tot nghiep, tung mu cu nhan
+c1.jpg c2.jpg c3.jpg c4.jpg  800x1000 (anh doc) - 4 khoa hoc: hoc sinh THCS / hoc sinh lop 12 / sinh vien dai hoc / ban hoc nhom tu duy
+t1.jpg t2.jpg t3.jpg t4.jpg  600x800 chan dung giao vien (nen don gian)
+cta.jpg           1920x900   hoc sinh vui ve, nhom ban, tay cam sach
+
+TRANG CON (banner ngang 1920x700)
+ph-khoahoc.jpg  ph-gioithieu.jpg  ph-giaovien.jpg  ph-lich.jpg
+ph-thanhtich.jpg  ph-hocphi.jpg  ph-tintuc.jpg  ph-lienhe.jpg
+
+BANNER TRANG CHI TIET KHOA HOC (1920x700)
+c1-banner.jpg c2-banner.jpg c3-banner.jpg c4-banner.jpg
+
+KHAC
+about.jpg      1000x1100  trang Gioi thieu
+results-2.jpg  1920x900   trang Thanh tich
+n1.jpg n2.jpg n3.jpg n4.jpg  800x500  anh bai viet Tin tuc
+
+
+[v2.5] Banner cac trang con (ph-*.svg) va banner chi tiet khoa hoc (c1..c4-banner.svg) la tranh minh hoa rieng, khong dung chung anh. Anh that (Thu vien Media hoac .jpg cung ten) van luon duoc uu tien.
+
+[v2.6] Toan bo anh giao dien (hero, home-about, about, results, results-2, cta, c1-c4) la tranh minh hoa rieng trong thu muc nay, khong con dung anh Pexels. Anh that (Thu vien Media hoac .jpg cung ten) van luon duoc uu tien.
